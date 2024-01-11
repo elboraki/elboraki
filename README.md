@@ -1,6 +1,5 @@
 # 💫 About Me:
-Enthusiastic full-stack developer skilled in front-end technologies such as HTML, CSS, and JavaScript, Angular as well as proficient in back-end technologies like Node.js and MongoDB. Continuously driven to expand knowledge and embrace fresh challenges within the tech industry.
-
+Passionate full-stack developer with expertise in front-end technologies including HTML, CSS, JavaScript, and Angular, as well as proficiency in back-end technologies such as Node.js, NestJs, and ongoing exploration of DevOps principles. Eager to continually enhance knowledge and tackle new challenges within the dynamic landscape of the tech industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/httpyounes-el-boraki-3a73091a3) 
