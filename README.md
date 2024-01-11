@@ -1,5 +1,5 @@
 # 💫 About Me:
-Enthusiastic full-stack developer skilled in front-end technologies such as HTML, CSS, and JavaScript, as well as proficient in back-end technologies like Node.js and MongoDB. Continuously driven to expand knowledge and embrace fresh challenges within the tech industry.
+Enthusiastic full-stack developer skilled in front-end technologies such as HTML, CSS, and JavaScript, Angular as well as proficient in back-end technologies like Node.js and MongoDB. Continuously driven to expand knowledge and embrace fresh challenges within the tech industry.
 
 
 ## 🌐 Socials:
